@@ -1,0 +1,16 @@
+/* Start Pagination */
+.active {
+  background-color: burlywood;
+}
+
+/* End Pagination */
+
+.static,
+.loop {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 50%;
+  height: 100%;
+}
